@@ -14,10 +14,10 @@
 <!--   GitHub stats graph -->
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diyorbekkdev&show_icons=true&locale=en&layout=compact" alt="diyorbekkdev" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diyorbekkdev&show_icons=true&locale=en" alt="diyorbekkdev" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anvarjon-programmer&show_icons=true&locale=en&layout=compact" alt="anvarjon-programme" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anvarjon-programme&show_icons=true&locale=en" alt="anvarjon-programme" /></p>
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Diyorbekkdev/count.svg" />
+  <img src="https://profile-counter.glitch.me/anvarjon-programme/count.svg" />
 </p>
