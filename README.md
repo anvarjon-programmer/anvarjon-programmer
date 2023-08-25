@@ -1,4 +1,4 @@
-##  Diyorbek Juraev | Software engineer
+##  Anvarjon Tojiboyev | Software engineer
 ![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=coral&lines=I'm+a+Frontend+Developer;I'm+a+React+JS+Developer;I'm+a+VUE+JS+Developer;I'm+a+JS+Developer;)
 
 
